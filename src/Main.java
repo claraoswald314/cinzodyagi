@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args){
         double yil;
-        String zodyag;
+        
         Scanner scanner = new Scanner(System.in);
         System.out.println("doğduğunuz yılı yazınız : ");
         yil = scanner.nextDouble();
